@@ -1,19 +1,19 @@
 {
-  "name": "plum-ui",
-  "version": "1.0.0",
-  "description": "Web Components UI library",
+  "name": "plum-ui-kit",
+  "version": "0.0.1",
+  "description": "Web Components UI kit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crispipear/plum-ui.git"
+    "url": "git+https://github.com/crispipear/plum-ui-kit.git"
   },
   "author": "@crispipear",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crispipear/plum-ui/issues"
+    "url": "https://github.com/crispipear/plum-ui-kit/issues"
   },
-  "homepage": "https://github.com/crispipear/plum-ui#readme"
+  "homepage": "https://github.com/crispipear/plum-ui-kit#readme"
 }
